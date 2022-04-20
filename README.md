@@ -8,3 +8,5 @@ More CSS styles flexbox and grid were also taught in this course.
 I learnt how to develop a professional website with the content and image sources provided by the user.
 
 I also learnt some advance feature like using lighthouse to test the performance of website.
+
+Site is live at : https://champ-omnifood-clone.netlify.app/
